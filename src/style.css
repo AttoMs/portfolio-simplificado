@@ -121,11 +121,11 @@ body {
     border-radius: 50%;
 }
 
-.home .foto.sombra-interna {
+/* .home .foto.sombra-interna {
     background: linear-gradient(to right, #17dbe9, #064169);
     background-size: 180% 200%;
     animation: gradient-animation 5s ease infinite;
-}
+} */
 
 .projetos {
     /* background-color: purple; */
